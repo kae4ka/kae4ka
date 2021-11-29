@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kae4ka
-- 👀 I’m interested in ML ✨
+- 👀 I’m interested in ✨ ML ✨
 - 🌱 I’m currently dating @LobovaSasha
 - 📫 How to reach me. You can't actually. I'm taken by my precious fiancé 💞️
