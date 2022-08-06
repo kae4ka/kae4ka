@@ -1,11 +1,8 @@
-+ :bowtie: hi, i’m @kae4ka
- 
-+ :two_hearts: i’m interested in data analysis, machine learning and backend development a bit
- 
-+ :pencil: currently learning data science in moscow polytechnic university
- 
-+ :love_letter: feel free to contact me by email
+<hr>
+<p align='center'> <samp> hi, i’m <b> @kae4ka </b><br>
+ i’m interested in data analysis, machine learning and backend development a bit <br>
+ currently learning data science in moscow polytechnic university <br>
+ feel free to contact me by email </samp></p>
 
-![alt text](https://pa1.narvii.com/6520/5929eb7f0d26725c2010735f27e0523e7147a9c6_hq.gif)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kae4ka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align='center'> <img src='https://i.ytimg.com/vi/ZAgYt-ZUy20/maxresdefault.jpg'></div>
+<hr>
