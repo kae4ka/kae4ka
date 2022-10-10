@@ -4,5 +4,5 @@
  currently learning data science in moscow polytechnic university <br>
  feel free to contact me by email </samp></p>
 
-<div align='center'> <img src='https://i.ytimg.com/vi/ZAgYt-ZUy20/maxresdefault.jpg'></div>
+<div align='center'> <img src='https://media.tenor.com/teNs0m9-kogAAAAd/yamato-yamato-one-piece.gif'></div>
 <hr>
