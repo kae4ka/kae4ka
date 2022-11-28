@@ -1,8 +1,6 @@
-<hr>
-<p align='center'> <samp> hi, i’m <b> @kae4ka </b><br>
- i’m interested in data analysis, machine learning and backend development a bit <br>
- currently learning data science in moscow polytechnic university <br>
- feel free to contact me by email </samp></p>
-
-<div align='center'> <img src='https://media.tenor.com/teNs0m9-kogAAAAd/yamato-yamato-one-piece.gif'></div>
-<hr>
+:wave: hi there, i’m <b> @kae4ka </b><br>
+:yum: i'm an average data science enjoyer <br>
+:sparkles: my tech stack: `python` `sql` `html` `css` `pandas` `numpy` `matplotlib` `seaborn` `postgresql` `excel` <br>
+:two_hearts: feel free to contact me <br>
+<img src='https://i.pinimg.com/originals/ea/6f/95/ea6f95a379addc1c241ed91391974a86.gif'> <br>
+:point_down:here you can see my projects:
