@@ -2,7 +2,7 @@
 :yum: i'm an average data science enjoyer <br>
 :sparkles: my tech stack: `python` `sql` `pandas` `numpy` `matplotlib` `seaborn` <br>
 :two_hearts: feel free to contact me <br>
-<img src='https://i.pinimg.com/originals/ea/6f/95/ea6f95a379addc1c241ed91391974a86.gif'> <br>
+<img src='https://i.pinimg.com/originals/c3/7b/d1/c37bd1db09ab4fac0fdb2a52462df4d3.gif'> <br>
 
 my profiles: <br>
 :pencil: <a href='https://stepik.org/users/63996932'>stepik </a> <br>
